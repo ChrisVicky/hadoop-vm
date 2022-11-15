@@ -1,0 +1,4 @@
+cache/hadoop-2.9.0.tar.gz filter=lfs diff=lfs merge=lfs -text
+cache/jdk-8u161-linux-x64.tar.gz filter=lfs diff=lfs merge=lfs -text
+cache/scala-2.11.8.tgz filter=lfs diff=lfs merge=lfs -text
+cache/spark-2.3.0-bin-hadoop2.7.tgz filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant/cache":{"guestpath":"/vagrant/cache","hostpath":"/home/christopher/Programme/BigData/HadoopCluster/cache","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/christopher/Programme/BigData/HadoopCluster","disabled":false,"__vagrantfile":true}}}
